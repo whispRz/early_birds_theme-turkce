@@ -1,0 +1,947 @@
+# Copyright (C) 2023 Select Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: EarlyBirds 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/earlybirds\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-09T13:39:49+01:00\n"
+"PO-Revision-Date: 2023-02-01 12:56+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: earlybirds\n"
+"Language: tr-TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: inc/title/helper.php:50
+msgid " Tag"
+msgstr "Etiket"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla yüklendi ve etkinleştirildi."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#. translators: %s - number of comments value
+#: inc/comments/templates/comments.php:7
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Yorum"
+msgstr[1] "%s Yorum"
+
+#. translators: %s: Quantity.
+#: inc/woocommerce/templates/global/quantity-input.php:32
+msgid "%s quantity"
+msgstr "%s kalite"
+
+#: inc/pagination/templates/pagination-standard.php:6
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: inc/title/helper.php:62
+msgid "404 - Page not found"
+msgstr "404 - Sayfa Bulunamadı"
+
+#: inc/welcome/class-earlybirds-welcome-page.php:78 
+#: inc/welcome/class-earlybirds-welcome-page.php:79
+msgid "About"
+msgstr "Hakkında"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Etkinleştir %2$s"
+
+#: inc/plugins/plugins-activation.php:102
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Yüklü eklentiyi etkinleştir"
+msgstr[1] "Yüklü eklentileri etkinleştir"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulumlar ve etkinleştirmeler tamamlandı."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#: inc/welcome/templates/welcome.php:46
+msgid "All Our Themes"
+msgstr "Tüm Temalarımız"
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi. %1$s"
+
+#: inc/plugins/plugins-activation.php:105
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi. %s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s yüklenirken bir hata oluştu: <strong>%2$s</strong>."
+
+#: inc/title/helper.php:58
+msgid "Archive"
+msgstr "Arşiv"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Bilinmeyen"
+
+#: inc/title/helper.php:54
+msgid "Author: "
+msgstr "Yazar:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/woocommerce/helper.php:414
+msgid "Average"
+msgstr "Ortalama"
+
+#: inc/404/helper.php:32
+msgid "Back to home"
+msgstr "Ana Sayfaya geri dön"
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: inc/plugins/class-tgm-plugin-activation.php:383 
+#: inc/plugins/plugins-activation.php:101
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başlayın"
+msgstr[1] "Eklentileri yüklemeye başlayın"
+
+#: inc/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başla"
+msgstr[1] "Eklentileri güncellemeye başla"
+
+#. Description of the theme
+msgid "Café and Coffee Shop Theme"
+msgstr "Café and Coffee Shop Theme"
+
+#: inc/woocommerce/templates/single-product/meta.php:34
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategori"
+msgstr[1] "Kategoriler"
+
+#: inc/blog/templates/parts/post-info/comments.php:3
+msgid "Comment"
+msgstr "Yorum"
+
+#: inc/blog/templates/parts/post-info/comments.php:3
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: inc/comments/templates/comments.php:27
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: inc/plugins/plugins-activation.php:57
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/plugins/plugins-activation.php:62
+msgid "Custom Twitter Feeds"
+msgstr "Özel Twitter Beslemeleri"
+
+#: inc/plugins/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi kapat"
+
+#: inc/svg/templates/drag-cursor.php:5
+msgid "Drag"
+msgstr "Sürükle"
+
+#. Theme Name of the theme
+msgid "EarlyBirds"
+msgstr "EarlyBirds"
+
+#: inc/plugins/plugins-activation.php:19
+msgid "EarlyBirds Core"
+msgstr "EarlyBirds Core"
+
+#: inc/comments/helper.php:90
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/plugins/plugins-activation.php:37
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: inc/plugins/plugins-activation.php:72
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: inc/404/helper.php:30
+msgid "Error Page"
+msgstr "Hata Sayfası"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#. translators: %s - added sidebar title increment value
+#: inc/footer/helper.php:98
+msgid "Footer Bottom Area - Column %s"
+msgstr "Footer Bottom Area - Column %s"
+
+#. translators: %s - added sidebar title increment value
+#: inc/footer/helper.php:88
+msgid "Footer Top Area - Column %s"
+msgstr "Footer Top Area - Column %s"
+
+#: inc/pagination/helper.php:61
+msgid "Get method is invalid"
+msgstr "Get method is invalid"
+
+#: inc/woocommerce/helper.php:413
+msgid "Good"
+msgstr "İyi"
+
+#: inc/welcome/templates/welcome.php:40
+msgid "Help Center"
+msgstr "Yardım Merkezi"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Detayları Gizle"
+
+#. Theme URI of the theme
+msgid "https://earlybirds.qodeinteractive.com"
+msgstr "https://iyifikirmedya.com"
+
+#. Author URI of the theme
+msgid "https://qodeinteractive.com"
+msgstr "https://iyifikirmedya.com"
+
+#: inc/search/templates/parts/search-form.php:6
+msgid "If you are not happy with the results below please do another search"
+msgstr "Aşağıdaki sonuçlardan memnun değilseniz lütfen başka bir arama yapın"
+
+#: inc/plugins/plugins-activation.php:67
+msgid "Instagram Feed"
+msgstr "Instagram Feed"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "Yükle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Yükle %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:341 
+#: inc/plugins/plugins-activation.php:90
+msgid "Install Plugins"
+msgstr "Eklentileri Yükle"
+
+#: inc/plugins/class-tgm-plugin-activation.php:340 
+#: inc/plugins/plugins-activation.php:89 inc/welcome/templates/welcome.php:33 
+#: inc/welcome/templates/welcome.php:49
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Yükle"
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Yüklü Ama Aktif Değil"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Yüklü versiyon:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) Eklentisini Yükleme ve Etkinleştirme"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) Eklentisi Yükleniyor"
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:343 
+#: inc/plugins/plugins-activation.php:91
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Kurulumu: %s"
+
+#: inc/pagination/helper.php:102
+msgid "Items are loaded"
+msgstr "Öğeler yüklendi"
+
+#: inc/blog/templates/parts/post-format/link.php:16
+msgid "Learn more"
+msgstr "Daha fazla bilgi edin"
+
+#: inc/pagination/templates/pagination-load-more.php:9
+msgid "Load More"
+msgstr "Daha fazla yükle"
+
+#: inc/header/helper.php:20
+msgid "Main Navigation"
+msgstr "Main Navigation"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Minimum gerekli sürüm:"
+
+#: inc/mobile-header/templates/parts/mobile-navigation.php:2
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: inc/mobile-header/helper.php:20
+msgid "Mobile Navigation"
+msgstr "Mobile Navigation"
+
+#: inc/woocommerce/templates/single-product/meta.php:30
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/woocommerce/template-functions.php:532
+msgid "New"
+msgstr "Yeni"
+
+#: inc/search/templates/parts/search-form.php:2
+msgid "New search:"
+msgstr "Yeni arama:"
+
+#: inc/woocommerce/template-functions.php:397
+msgid "Next"
+msgstr "İleri"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Herhangi bir işlem yapılmadı. %1$s eklentisi zaten etkindi."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu anda etkinleştirilecek eklenti yok."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu anda kurulabilecek eklenti yok."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu anda güncellenecek eklenti yok."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Yüklenecek, güncellenecek veya etkinleştirilecek eklenti yok."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Kurulacak herhangi bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/content/templates/parts/posts-not-found.php:1
+msgid "No posts were found for provided query parameters."
+msgstr "Sağlanan sorgu parametreleri için gönderi bulunamadı."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Yüklü değil"
+
+#: inc/woocommerce/helper.php:415
+msgid "Not that bad"
+msgstr "O kadar kötü değil"
+
+#: inc/pagination/helper.php:104
+msgid "Options are invalid"
+msgstr "Seçenekler geçersiz"
+
+#: inc/pagination/helper.php:41
+msgid "Options data is array with all selected shortcode parameters value"
+msgstr ""
+"Seçenekler verileri, seçilen tüm kısa kod parametre değerlerinin bulunduğu "
+"bir dizidir"
+
+#: inc/pagination/helper.php:207
+msgid "Pages: "
+msgstr "Sayfalar:"
+
+#: inc/woocommerce/helper.php:412
+msgid "Perfect"
+msgstr "Mükemmel"
+
+#: inc/plugins/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisiyle iletişime geçin."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1042 
+#: inc/plugins/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Lütfen eklenti sağlayıcısıyla iletişime geçin ve eklentilerini WordPress "
+"yönergelerine göre paketlemelerini isteyin."
+
+#: inc/welcome/templates/welcome.php:31
+msgid ""
+"Please install and activate required plugins in order to gain access to all "
+"the theme functionalities and features."
+msgstr ""
+"Tüm tema işlevlerine ve özelliklerine erişmek için lütfen gerekli "
+"eklentileri kurun ve etkinleştirin."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1243 
+#: inc/plugins/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/plugins/class-tgm-plugin-activation.php:400 
+#: inc/plugins/class-tgm-plugin-activation.php:3311 
+#: inc/plugins/plugins-activation.php:104
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Eklenti aktivasyonu başarısız oldu."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:405
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Eklenti etkinleştirilmedi. Bu tema için daha yüksek bir %s sürümü gerekiyor. "
+"Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü"
+msgstr[1] "Tümü"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/woocommerce/template-functions.php:396
+msgid "Prev"
+msgstr "Önceki"
+
+#: inc/woocommerce/templates/global/quantity-input.php:47
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Adet"
+
+#: inc/plugins/plugins-activation.php:42
+msgid "Qi Addons for Elementor"
+msgstr "Qi Addons for Elementor"
+
+#: inc/plugins/plugins-activation.php:47
+msgid "Qi Blocks"
+msgstr "Qi Blocks"
+
+#. Template Name of the theme
+msgid "Qode Blank Template"
+msgstr "Qode Blank Template"
+
+#: inc/plugins/plugins-activation.php:10
+msgid "Qode Framework"
+msgstr "Qode Framework"
+
+#. Template Name of the theme
+msgid "Qode Full Width Template"
+msgstr "Qode Full Width Template"
+
+#: inc/welcome/templates/welcome.php:4
+msgid "Qode Logo"
+msgstr "Qode Logo"
+
+#. translators: %s: Quantity.
+#: inc/woocommerce/templates/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Miktar"
+
+#: inc/woocommerce/helper.php:411
+msgid "Rate&hellip;"
+msgstr "Puanla&hellip;"
+
+#: inc/blog/templates/parts/post-info/read-more.php:8 
+#: inc/blog/templates/parts/post-info/read-more.php:14
+msgid "Read More"
+msgstr "Daha fazla oku"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/comments/helper.php:83
+msgid "Reply"
+msgstr "Cevapla"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Gerekli"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Gerekli Güncelleme Mevcut Değil"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Güncelleme gerektirir"
+
+#: inc/plugins/class-tgm-plugin-activation.php:398 
+#: inc/plugins/plugins-activation.php:103
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Yükleyicisine Dön"
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Gösterge Tablosuna Dön"
+
+#: inc/plugins/plugins-activation.php:28
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/woocommerce/template-functions.php:476
+msgid "Sale"
+msgstr "Satış"
+
+#: inc/search/helper.php:49 inc/search/helper.php:50 inc/search/helper.php:74 
+#: inc/woocommerce/templates/product-searchform.php:26 searchform.php:8
+msgid "Search"
+msgstr "Ara"
+
+#: inc/woocommerce/templates/product-searchform.php:24 searchform.php:6
+msgid "Search for:"
+msgstr "Aramak:"
+
+#: inc/title/helper.php:60
+msgid "Search results for: "
+msgstr "Arama Sonuçları:"
+
+#. Author of the theme
+msgid "Select Themes"
+msgstr "Tema Seç"
+
+#: inc/plugins/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr "Bunun yerine parent_slug yapılandırma değişkenini ayarlayın."
+
+#: inc/woocommerce/helper.php:173 inc/woocommerce/helper.php:200
+msgid "Shop"
+msgstr "Mağaza"
+
+#: inc/filter/templates/filter.php:9
+msgid "Show All"
+msgstr "Tümünü Göster"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: functions.php:150
+msgid "Skip to the content"
+msgstr "içeriğe geç"
+
+#: inc/woocommerce/templates/single-product/meta.php:29
+msgid "SKU:"
+msgstr "SKU:"
+
+#: inc/woocommerce/template-functions.php:503
+msgid "Sold"
+msgstr "Satıldı"
+
+#: inc/plugins/class-tgm-plugin-activation.php:346 
+#: inc/plugins/plugins-activation.php:92
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'sında bir sorun oluştu."
+
+#: inc/plugins/plugins-activation.php:98
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this website for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Maalesef, %s eklentisini etkinleştirmek için doğru izinlere sahip değilsiniz."
+" Eklentiyi etkinleştirme konusunda yardım için bu web sitesinin "
+"yöneticisiyle iletişime geçin."
+msgstr[1] ""
+"Maalesef, %s eklentisini etkinleştirmek için doğru izinlere sahip değilsiniz."
+" Eklentileri etkinleştirme konusunda yardım için bu sitenin yöneticisiyle "
+"iletişime geçin."
+
+#: inc/plugins/plugins-activation.php:95
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this website for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Maalesef, %s eklentisini yüklemek için doğru izinlere sahip değilsiniz. "
+"Eklentinin yüklenmesi konusunda yardım için bu web sitesinin yöneticisiyle "
+"iletişime geçin."
+msgstr[1] ""
+"Üzgünüz, ancak %s eklentisini yüklemek için doğru izinlere sahip değilsiniz. "
+"Eklentileri yükleme konusunda yardım için bu sitenin yöneticisiyle iletişime "
+"geçin."
+
+#: inc/plugins/plugins-activation.php:100
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this website for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Maalesef, %s eklentisini güncellemek için doğru izinlere sahip değilsiniz. "
+"Eklentinin güncellenmesi konusunda yardım için bu web sitesinin "
+"yöneticisiyle iletişime geçin."
+msgstr[1] ""
+"Maalesef, %s eklentisini güncellemek için doğru izinlere sahip değilsiniz. "
+"Eklentileri güncelleme konusunda yardım için bu sitenin yöneticisiyle "
+"iletişime geçin."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Durum"
+
+#: inc/woocommerce/templates/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etiket:"
+msgstr[1] "Etiketler:"
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. translators: %1$s - added theme name text, %2$s - added theme description text, %3$s - added theme name text
+#: inc/welcome/templates/welcome.php:18
+msgid ""
+"Thank you for installing %1$s - %2$s! Everything in %3$s is streamlined to "
+"make your website building experience as simple and fun as possible. We hope "
+"you love using it to make a spectacular website."
+msgstr ""
+"%1$s - %2$s yüklediğiniz için teşekkür ederiz! %3$s içindeki her şey, web "
+"sitesi oluşturma deneyiminizi olabildiğince basit ve eğlenceli hale getirmek "
+"için düzenlenmiştir. Muhteşem bir web sitesi yapmak için kullanmayı "
+"seveceğinizi umuyoruz."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:360 
+#: inc/plugins/plugins-activation.php:99
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Bu temayla maksimum uyumluluk sağlamak için şu eklentinin en son sürümüne "
+"güncellenmesi gerekiyor: %1$s."
+msgstr[1] ""
+"Bu temayla maksimum uyumluluk sağlamak için aşağıdaki eklentilerin en son "
+"sürümlerine güncellenmesi gerekiyor: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:401 
+#: inc/plugins/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:378 
+#: inc/plugins/plugins-activation.php:97
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:372 
+#: inc/plugins/plugins-activation.php:96
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki gerekli eklenti şu anda etkin değil: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Kurulum ve aktivasyon süreci başlıyor. Bu işlem bazı sunucularda biraz zaman "
+"alabilir, lütfen sabırlı olun."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Kurulum işlemi başlıyor. Bu işlem bazı sunucularda biraz zaman alabilir, "
+"lütfen sabırlı olun."
+
+#: inc/404/helper.php:31
+msgid ""
+"The page you are looking for doesn't exist. It may have been moved or "
+"removed altogether. Please try searching for some other page, or return to "
+"the website's homepage to find what you're looking for."
+msgstr ""
+"Aradığınız sayfa mevcut değil. Taşınmış veya tamamen kaldırılmış olabilir. "
+"Lütfen başka bir sayfa aramayı deneyin veya aradığınızı bulmak için web "
+"sitesinin ana sayfasına dönün."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Uzak eklenti paketi birden fazla dosyadan oluşur, ancak dosyalar bir "
+"klasörde paketlenmez."
+
+#: inc/plugins/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Uzak eklenti paketi, istenen bilgiye sahip bir klasör içermiyor ve yeniden "
+"adlandırma işe yaramadı."
+
+#: inc/welcome/templates/welcome.php:43
+msgid "Theme Documentation"
+msgstr "Tema Belgeleri"
+
+#: inc/welcome/templates/welcome.php:27
+msgid "Theme Screenshot"
+msgstr "Tema Ekran Görüntüsü"
+
+#: inc/plugins/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Yüklemek, güncellemek veya etkinleştirmek için gerekli veya önerilen bir "
+"veya daha fazla eklenti vardır."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için bir güncelleme var."
+msgstr[1] "Şu eklentiler için güncellemeler mevcut: %1$s."
+
+#: inc/plugins/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Bu eklentinin temanızla uyumlu olması için güncellenmesi gerekiyor."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:354 
+#: inc/plugins/plugins-activation.php:94
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi önerir: %1$s."
+msgstr[1] "Bu tema şu eklentileri önerir: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:348 
+#: inc/plugins/plugins-activation.php:93
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi gerektirir: %1$s."
+msgstr[1] "Bu tema şu eklentileri gerektirir: %1$s."
+
+#. Template Name of the theme
+msgid "Timetable Event"
+msgstr "Zaman Çizelgesi Etkinliği"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>'i Etkinleştirmek için"
+msgstr[1] "<span class=\"count\">(%s)</span>'i Etkinleştirmek için"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> Yüklemek İçin"
+msgstr[1] "<span class=\"count\">(%s)</span> Yüklemek İçin"
+
+#: inc/header/templates/parts/navigation.php:2
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tip"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Güncelle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Güncelle %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme Mevcut <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme Mevcut <span class=\"count\">(%s)</span>"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Tavsiye edilen güncelleme"
+
+#: inc/plugins/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Güncelleştirme gerekli"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) güncelleniyor"
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Eklenti Güncelleniyor: %s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti yazarından yükseltme mesajı:"
+
+#: inc/welcome/templates/welcome.php:37
+msgid "Useful Links:"
+msgstr "Kullanışlı bağlantılar:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Versiyon"
+
+#: inc/woocommerce/helper.php:416
+msgid "Very poor"
+msgstr "Çok fakir"
+
+#: inc/comments/helper.php:129
+msgid "Website"
+msgstr "Website"
+
+#. translators: %s - added theme name text
+#: inc/welcome/templates/welcome.php:9
+msgid "Welcome to %s"
+msgstr "Hoşgeldiniz %s"
+
+#. translators: %s - added sidebar description increment value
+#: inc/footer/helper.php:100
+msgid "Widgets added here will appear in the %s column of bottom footer area"
+msgstr ""
+"Buraya eklenen widget'lar, alt altbilgi alanının %s sütununda görünecek"
+
+#. translators: %s - added sidebar description increment value
+#: inc/footer/helper.php:90
+msgid "Widgets added here will appear in the %s column of top footer area"
+msgstr ""
+"Buraya eklenen widget'lar, üst alt bilgi alanının %s sütununda görünecek"
+
+#: inc/plugins/plugins-activation.php:52
+msgid "WooCommerce Plugin"
+msgstr "WooCommerce Plugin"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/comments/helper.php:113
+msgid "Your Comment *"
+msgstr "Yorumunuz *"
+
+#: inc/comments/helper.php:126
+msgid "Your Email"
+msgstr "E-Posta Adresiniz"
+
+#: inc/comments/helper.php:123
+msgid "Your Name"
+msgstr "Adınız"
+
+#: inc/woocommerce/helper.php:408
+msgid "Your Rating "
+msgstr "Oyunuz"
+
+#: inc/woocommerce/helper.php:394
+msgid "Your Review *"
+msgstr "Yorumunuz *"
